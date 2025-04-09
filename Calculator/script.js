@@ -100,9 +100,6 @@ operationButtons.forEach(button => {
                 case 'clear':
                     calculator.clear();
                     break;
-                case 'delete':
-                    calculator.delete();
-                    break;
                 case 'calculate':
                     calculator.calculate();
                     break;
